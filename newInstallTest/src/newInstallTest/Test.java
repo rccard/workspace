@@ -13,6 +13,8 @@ public class Test {
 		System.out.println("First Fork");
 		
 		System.out.println("Second Fork");
+		
+		System.out.println("Merge Test");
 
 
 
